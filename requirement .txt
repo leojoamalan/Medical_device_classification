@@ -1,0 +1,6 @@
+streamlit 
+opencv-python
+Python-IO
+matplotlib
+easyocr
+tensorflow 
